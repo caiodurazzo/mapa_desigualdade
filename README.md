@@ -8,18 +8,18 @@ Para comunicar os resultados, desenvolvi:
 
 🗺️ Mapa coroplético:
 
-!(graficos/mapa_desigualdade.png)
+![Mapa da desigualdade](graficos/mapa_desigualdade.png)
 
 📈 Ranking dos 10 distritos com melhor desempenho:
 
-!(graficos/ranking_top10_desigualdade.png)
+![Ranking Top 10](graficos/ranking_top10_desigualdade.png)
 
 📉 Ranking dos 10 distritos com pior desempenho:
 
-!(graficos/ranking_bottom10_desigualdade.png)
+![Ranking Bottom 10](graficos/ranking_bottom10_desigualdade.png)
 
 Os resultados reforçam um padrão conhecido da cidade: os maiores desempenhos concentram-se na região centro-oeste, enquanto os menores estão, em sua maioria, nas periferias norte, leste e sul, evidenciando a persistência das desigualdades socioespaciais.
 
-Os dados públicos são fundamentais porque podem ser transformados em informações claras que apoiam pesquisas e contribuem para o debate sobre políticas públicas. 🚀
+Os dados públicos são fundamentais porque podem ser transformados em informações claras que apoiam pesquisas e contribuem para o debate sobre políticas públicas! 🚀
 
-Todo o projeto foi desenvolvido em Python.
+Todo o projeto foi desenvolvido em Python, usando notebooks Jupyter para documentação.
